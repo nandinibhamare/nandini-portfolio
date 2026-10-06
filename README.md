@@ -6,7 +6,7 @@ The portfolio showcases my education, technical skills, projects, internship exp
 
 ## 🌐 Live Portfolio
 
-Coming soon...
+🔗 View Portfolio
 
 ## 👩‍💻 About Me
 
